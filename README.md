@@ -9,13 +9,16 @@ Email: parsa@yazdani.au
 ![Quix's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=Quix&layout=compact)
 
 ## Some unique projects I've open sourced
-![NoClutter](https://github-readme-stats.vercel.app/api/pin/?username=quixthe2nd&repo=noclutter)
-Article on NoClutter: [https://www.idownloadblog.com/2020/05/23/noclutter/](https://www.idownloadblog.com/2020/05/23/noclutter/)
+[![NoClutter](https://github-readme-stats.vercel.app/api/pin/?username=quixthe2nd&repo=noclutter)](https://github.com/QuixThe2nd/NoClutter)
 
-![TorrentTX](https://github-readme-stats.vercel.app/api/pin/?username=quixthe2nd&repo=torrenttx)
+An article on NoClutter can be found on [iDownloadBlog](https://www.idownloadblog.com/2020/05/23/noclutter/).
+
+[![TorrentTX](https://github-readme-stats.vercel.app/api/pin/?username=quixthe2nd&repo=torrenttx)](https://github.com/QuixThe2nd/TorrentTX)
+
 TorrentTX: An experimental consensus layer built onto the torrent protocol. Building a blockchain with self-consensus, that require's 0 proof of work/stake/etc.
 
-![ProntoLM](https://github-readme-stats.vercel.app/api/pin/?username=quixthe2nd&repo=prontolm)
+[![ProntoLM](https://github-readme-stats.vercel.app/api/pin/?username=quixthe2nd&repo=prontolm)](https://github.com/QuixThe2nd/ProntoLM)
+
 ProntoLM: Technically the world's smallest ML LLM.
 
 P.s. check [Starfiles](https://github.com/StarfilesFileSharing). More will be open sourced soon.
