@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-Like my work? Please considering following me ❤️
+Like my work? Please consider following me ❤️
 
 Email: parsa@yazdani.au
 
