@@ -19,4 +19,14 @@ TorrentTX: An experimental consensus layer built onto the torrent protocol. Buil
 
 ProntoLM: Technically the world's smallest ML LLM.
 
-P.s. check [Starfiles](https://github.com/StarfilesFileSharing). More will be open sourced soon.
+P.s. check [Starfiles](https://github.com/StarfilesFileSharing).
+
+Some of my favourite Starfiles projects:
+
+[![Hydrafiles](https://github-readme-stats.vercel.app/api/pin/?username=StarfilesFileSharing&repo=Hydrafiles)](https://github.com/StarfilesFileSharing/Hydrafiles)
+
+A headless storage network with TOR level privacy for hosts, accessible using a vanilla web browser over HTTP.
+
+[![B2DB](https://github-readme-stats.vercel.app/api/pin/?username=StarfilesFileSharing&repo=B2DB)](https://github.com/StarfilesFileSharing/B2DB)
+
+Using the technology behind bitcoin, without financialisation, to power P2P SQL databases.
