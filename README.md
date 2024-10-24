@@ -7,6 +7,10 @@
 ![Quix's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=Quix&layout=compact)
 
 ## Some unique projects I've open sourced
+[![Hydrafiles](https://github-readme-stats.vercel.app/api/pin/?username=StarfilesFileSharing&repo=Hydrafiles)](https://github.com/StarfilesFileSharing/Hydrafiles)
+
+A headless storage network with TOR level privacy for hosts, accessible using a vanilla web browser over HTTP.
+
 [![NoClutter](https://github-readme-stats.vercel.app/api/pin/?username=quixthe2nd&repo=noclutter)](https://github.com/QuixThe2nd/NoClutter)
 
 An article on NoClutter can be found on [iDownloadBlog](https://www.idownloadblog.com/2020/05/23/noclutter/).
@@ -18,14 +22,6 @@ TorrentTX: An experimental consensus layer built onto the torrent protocol. Buil
 [![ProntoLM](https://github-readme-stats.vercel.app/api/pin/?username=quixthe2nd&repo=prontolm)](https://github.com/QuixThe2nd/ProntoLM)
 
 ProntoLM: Technically the world's smallest ML LLM.
-
-P.s. check [Starfiles](https://github.com/StarfilesFileSharing).
-
-Some of my favourite Starfiles projects:
-
-[![Hydrafiles](https://github-readme-stats.vercel.app/api/pin/?username=StarfilesFileSharing&repo=Hydrafiles)](https://github.com/StarfilesFileSharing/Hydrafiles)
-
-A headless storage network with TOR level privacy for hosts, accessible using a vanilla web browser over HTTP.
 
 [![B2DB](https://github-readme-stats.vercel.app/api/pin/?username=StarfilesFileSharing&repo=B2DB)](https://github.com/StarfilesFileSharing/B2DB)
 
